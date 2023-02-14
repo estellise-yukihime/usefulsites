@@ -5,6 +5,7 @@ A list of useful sites
 ## Table of Contents
 
 1. [Technology](#technology)
+2. [Licensing](#licensing)
 
 ## Technology
 
