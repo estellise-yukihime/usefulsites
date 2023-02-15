@@ -22,6 +22,10 @@ A list of useful sites
 -   [Markdown Advanced Formatting](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting)
 -   [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+### Rider
+
+- [Rider EAP](https://www.jetbrains.com/rider/nextversion/)
+
 ## Licensing
 
 -   [TLDR About License](https://tldrlegal.com)
