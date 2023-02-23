@@ -26,6 +26,10 @@ A list of useful sites
 
 - [Rider EAP](https://www.jetbrains.com/rider/nextversion/)
 
+### C# Useful Libraries
+
+- [Benchmarking](https://github.com/dotnet/BenchmarkDotNet)
+
 ## Licensing
 
 -   [TLDR About License](https://tldrlegal.com)
